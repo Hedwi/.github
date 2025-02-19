@@ -1,7 +1,7 @@
 # Hedwi 海未办公 
 
 ## About 关于
-Self-hosted work suite.
+Self-hosted work suite. Google workspace alternative.
 
 https://hedwi.com
 
@@ -10,8 +10,6 @@ https://hedwi.com
 ![hedwi work suite](https://raw.githubusercontent.com/hedwi/.github/main/images/demo.png)
 
 ## Wechat 企业微信
-
-
 
 ![企业微信](https://raw.githubusercontent.com/hedwi/.github/main/images/qiyeweixin.png)
 
